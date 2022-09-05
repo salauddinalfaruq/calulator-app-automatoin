@@ -15,7 +15,7 @@
 #### Prerequisite
 - JDK 8 or higher
 - java IDE
-- configure JAVA-HOME and GRADLE_HOMe
+- configure JAVA-HOME and GRADLE_HOME
 
 #### Steps to run
 - Clone the repo
